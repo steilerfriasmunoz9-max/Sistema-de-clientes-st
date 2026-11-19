@@ -1,0 +1,5 @@
+S&E WEB - Gestión de clientes
+Abre index.html en tu navegador.
+Admin:   steiler / steilerfrias11  (agregar, editar, eliminar, exportar, respaldo)
+Usuario: pag123 / s11              (solo ver)
+Los datos se guardan en el navegador de este equipo. Usa "Respaldo" para guardar una copia.
